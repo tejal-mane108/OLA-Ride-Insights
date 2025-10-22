@@ -168,6 +168,11 @@ Use the sidebar to navigate the ten business cases.
 
 ---
 
+## POWER BI Published Link
+https://app.powerbi.com/groups/me/reports/8bb6d822-953e-474c-946e-79cbd5a1466e/8d63b7975adee3a7bda4?experience=power-bi
+
+---
+
 ## 📝 License
 
 For educational and portfolio use. Attribution appreciated.
